@@ -35,7 +35,7 @@ CodeAlpha_Ecommerce/
 ├── package.json         # Dependencies list
 └── README.md            # Project Documentation
 
-
+```
 ## Live Demo & Preview
 - Video Demo: [LinkedIn Post](https://www.linkedin.com/posts/yash-shukla-411b94215_codealpha-webdevelopment-fullstack-activity-7429562803499405312-ZMC8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZ1Sk0B8SHfmq8n9z4MCDkbsgJNwuITvJs)
 - Source Code: This repository
